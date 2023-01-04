@@ -1,7 +1,7 @@
 ### Olá!!! Sou Angelo Morais
 
 - 🔭 Hoje trabalho como Supervisor de Informática
-- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade EStácio de Sá
+- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá
 - 📫 Contate-me no email : angeloomoraiss@gmail.com
 - 😄 Pronouns: ele/dele
 
